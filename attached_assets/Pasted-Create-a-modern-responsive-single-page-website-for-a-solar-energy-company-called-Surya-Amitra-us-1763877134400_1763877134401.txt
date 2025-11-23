@@ -1,0 +1,26 @@
+Create a modern, responsive, single-page website for a solar energy company called "Surya Amitra" using only HTML, CSS, and minimal JavaScript (no frameworks). The design should be inspired by the "Zolar – Solar Energy WordPress Theme" (clean, professional, green/amber solar-themed with bold sections, cards, and clear CTAs).
+
+Use the following content:
+- Main headline: "Powering a Sustainable Future"
+- Subheading: "Reliable & Affordable Solar Energy Solutions"
+- Description: "Switch to solar and reduce your electricity bills while helping the environment. We provide high-quality solar panels and professional installation services for homes and businesses."
+- Hero image URL: https://www.suryaamitra.com/assets/images/solar_image.jpg
+
+Structure the page with:
+1. A sticky header with the logo (use "Surya Amitra" as text) and navigation links: Home, Services, Projects, Contact.
+2. A full-width hero section with the headline, subheading, description, a "Get Free Quote" button, and the solar image as a background (with dark overlay for readability).
+3. A "Services" section with 3–4 service cards (e.g., Residential Solar, Commercial Solar, Installation & Maintenance) using icons or simple placeholders.
+4. A "Why Choose Us" section with 3–4 benefit points (e.g., 10+ Years Experience, Affordable EMI, 25-Year Warranty, Certified Experts).
+5. A "Projects" section showing a simple 2x2 grid of project placeholders using the same solar image.
+6. A "Contact CTA" section with a centered headline "Ready to Go Solar?" and a "Schedule Free Assessment" button.
+7. A footer with copyright, contact info (use placeholder: contact@suryaamitra.com | +91 XXXXXXXXXX), and social media icons (as placeholders).
+
+Design requirements:
+- Use a solar-themed color palette: greens (#2E7D32 or #388E3C), amber/orange (#FF6F00 or #FF8F00), white, and dark gray.
+- Fully responsive (mobile-friendly).
+- Clean, modern typography (use Google Fonts like 'Poppins' or 'Open Sans').
+- Smooth hover effects on buttons and cards.
+- No external dependencies except Google Fonts and Font Awesome (for icons via CDN).
+- All code in one HTML file (inline CSS and minimal JS if needed).
+
+Make it functional, fast, and visually aligned with professional solar energy websites like the Zolar theme.
