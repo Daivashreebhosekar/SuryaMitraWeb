@@ -48,12 +48,14 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           <button
             onClick={() => scrollToSection("home")}
-            className="flex items-center space-x-2 group"
+            className="flex items-center space-x-3 group"
             data-testid="button-logo"
           >
-            <div className="flex items-center justify-center w-10 h-10 bg-primary rounded-md">
-              <i className="fas fa-solar-panel text-primary-foreground text-xl"></i>
-            </div>
+            <img 
+              src="/logo.png" 
+              alt="Surya Mitra Solar Logo" 
+              className="h-12 w-auto object-contain"
+            />
             <span className="text-xl font-bold text-foreground group-hover:text-primary transition-colors">
               Surya Mitra Solar
             </span>

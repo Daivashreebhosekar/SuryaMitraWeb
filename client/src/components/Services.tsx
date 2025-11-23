@@ -43,7 +43,7 @@ export function Services() {
             Our Services
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Comprehensive solar energy solutions for every need
+            Comprehensive solar energy solutions available across India
           </p>
         </div>
 
